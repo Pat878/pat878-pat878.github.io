@@ -33,7 +33,7 @@ color:
 # Footer settings
 footer:
   copyright: Pat Mellon
-  location: Lancaster, PA
+  location: Location
   social: Around the Web
  # credits: Credits
 
@@ -52,7 +52,7 @@ social:
 
 # Postal address (add as many lines as necessary)
 #address:
- # - line: 3481 Melrose Place
+  - line: Lancaster, PA
   #- line: Beverly Hills, CA 90210
 
 # Credits content
