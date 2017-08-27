@@ -49,6 +49,8 @@ social:
   #  url: http://bitbucket.org/jekyll
   - title: github
     url: http://github.com/pat878
+  - title: linkedin
+    url: https://www.linkedin.com/in/patrick-mellon/
 
 # Postal address (add as many lines as necessary)
 address:

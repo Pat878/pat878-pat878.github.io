@@ -1,0 +1,20 @@
+<!-- indvidual_post Section -->
+   <section class="blog" id="blog">
+       <div class="container">
+           <div class="row">
+               <div class="col-lg-12 text-center">
+
+                   <h2>{{ page.title }}</h2>
+
+                   <hr class="star-light">
+                   {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
+            {{ page.date | date: date_format }}
+               </div>
+           </div>
+           <div class="row">
+             {{ content }}
+
+
+
+       </div>
+   </section>

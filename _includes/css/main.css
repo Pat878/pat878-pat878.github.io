@@ -184,6 +184,12 @@ section.success {
     background: #{{ site.color.primary }};
 }
 
+section.blog {
+  margin-top: 20px;
+    color: #fff;
+    background: #{{ site.color.primary }};
+}
+
 @media(max-width:767px) {
     section {
         padding: 75px 0;
