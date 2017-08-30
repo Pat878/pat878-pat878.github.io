@@ -8,12 +8,14 @@
 
                    <hr class="star-light">
                    {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
-            {{ page.date | date: date_format }}
+          <h4>  {{ page.date | date: date_format }} </h4>
                </div>
            </div>
            <div class="row">
-             {{ content }}
+             <div class="col-lg-8 col-lg-offset-2">
 
+             <p>{{ content }}</p>
+           </div>
 
 
        </div>
