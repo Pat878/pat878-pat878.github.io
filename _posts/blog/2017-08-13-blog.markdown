@@ -1,7 +1,7 @@
 ---
 layout: blog
 date: 2017-08-15
-category: blog1
+category: blog
 title: Blog
 
 ---

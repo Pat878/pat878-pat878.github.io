@@ -1,0 +1,14 @@
+---
+layout: default
+modal-id: 6
+date: 2014-07-13
+img: safe.png
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+code: https://github.com/Pat878/Image-Carousel
+live-link: https://pat878.github.io/Image-Carousel/
+description: "An image carousel featuring my beautiful pup, Elsie."
+
+---
