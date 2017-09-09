@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: individual_post
 date: 2017-08-15
 category: blog
 title: Blog
