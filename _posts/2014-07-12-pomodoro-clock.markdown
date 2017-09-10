@@ -2,7 +2,7 @@
 layout: default
 modal-id: 7
 date: 2014-07-12
-img: safe.png
+img: pomodoro-clock.png
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
