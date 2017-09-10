@@ -2,12 +2,8 @@
 layout: individual_post
 date: 2017-08-20
 category: blog
-title: Blorg
+title: Working with Jekyll
 
 ---
 
-Hello, I am a sample blog! Hello, I am a sample blog! Hello, I am a sample blog!
-Hello, I am a sample blog! Hello, I am a sample blog!
-Hello, I am a sample blog!
-Hello, I am a sample blog!
-Hello, I am a sample blog!
+Check back soon for a walkthrough of how I took the Freelancer theme and modified it for this site.
