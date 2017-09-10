@@ -61,7 +61,8 @@ address:
   #- line: Beverly Hills, CA 90210
 
 # Credits content
-credits: '<a href="http://startbootstrap.com" target="_blank">Freelancer</a> is a free to use, open source Bootstrap theme. Learn how I modified it for this site.'
+credits: '<a href="http://startbootstrap.com" target="_blank">Freelancer</a> is a free to use,
+open source Bootstrap theme. <a href="https://pat878.github.io/blog/2017/08/20/Working_with_Jekyll/">Learn how</a> I modified it for this site.'
 
 # Build settings
 markdown: kramdown
