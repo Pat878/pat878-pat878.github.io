@@ -1,6 +1,6 @@
 ---
 layout: default
-modal-id: 1
+modal-id: 2
 date: 2014-07-19
 img: recipes.png
 alt: image-alt
