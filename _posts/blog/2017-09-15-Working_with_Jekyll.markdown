@@ -47,7 +47,7 @@ In this doc you add the following code:
 {% endraw %}
 ```
 
-The above code lists the various files I want to include from the `_includes` folder. `blognav.html` and `blog.html` are especially important to display the blog.
+The above code lists the various files I want to include from the `_includes` folder. `blognav.html` and `blog.html` are especially important for displaying the blog.
 
 ----
 
