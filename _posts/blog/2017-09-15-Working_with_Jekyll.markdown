@@ -80,6 +80,10 @@ The Freelancer theme comes with a `_posts` folder where all of the projects in y
 
 ----
 
+#### 5. Create `individual_post.html` in the `_layouts` and `_includes` folders.
+
+Now that I have the blog page I have to display individual posts. `individual_post.html` inside of the `_includes` folder is how the blog content for an individual post is displayed. This is where I display `{% raw %}{{ content }}{% endraw %}`
+
 That’s pretty much it for adding a blog page. I also added a blog folder within the `_posts` folder to make things more organized for myself. But that’s it!
 
 You can use the above steps to add extra pages as well:
@@ -87,5 +91,6 @@ You can use the above steps to add extra pages as well:
 1. Add a doc to the root folder that calls your layout.
 2. Add your layout that calls the files to include.
 3. Add the necessary files in the `_includes` folder.
+4. Repeat steps 2 and 3 to display individual posts.
 
 These are the steps I took to add the “My Story” page. (I call it `learn_more` throughout the repo.)
