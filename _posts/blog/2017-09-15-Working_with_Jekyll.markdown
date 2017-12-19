@@ -80,9 +80,11 @@ The Freelancer theme comes with a `_posts` folder where all of the projects in y
 
 ----
 
-#### 5. Create `individual_post.html` in the `_layouts` and `_includes` folders.
+#### 5. Add `individual_post.html` to the `_layouts` and `_includes` folders.
 
 Now that I have the blog page I have to display individual posts. The magic happens inside of `individual_post.html` which is inside of the `_includes` folder. This is where I display the `{% raw %}{{ content }}{% endraw %}` for each post.
+
+Now whenever I create a blog post I need to set individual_post as the layout so that it displays correctly.
 
 ----
 
