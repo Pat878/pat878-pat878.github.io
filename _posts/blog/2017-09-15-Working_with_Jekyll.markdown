@@ -82,7 +82,9 @@ The Freelancer theme comes with a `_posts` folder where all of the projects in y
 
 #### 5. Create `individual_post.html` in the `_layouts` and `_includes` folders.
 
-Now that I have the blog page I have to display individual posts. `individual_post.html` inside of the `_includes` folder is how the blog content for an individual post is displayed. This is where I display `{% raw %}{{ content }}{% endraw %}`
+Now that I have the blog page I have to display individual posts. The magic happens inside of `individual_post.html` which is inside of the `_includes` folder. This is where I display the `{% raw %}{{ content }}{% endraw %}` for each post.
+
+----
 
 That’s pretty much it for adding a blog page. I also added a blog folder within the `_posts` folder to make things more organized for myself. But that’s it!
 
