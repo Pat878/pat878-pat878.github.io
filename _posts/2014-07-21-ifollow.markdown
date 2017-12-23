@@ -1,0 +1,15 @@
+---
+layout: default
+modal-id: 1
+date: 2014-07-19
+img: iFollow-Screenshot.png
+alt: image-alt
+#project-date: April 2014
+#client: Start Bootstrap
+category: Web Development
+code: ""
+live-link: https://www.ifollow.io
+description: "A Rails app that will grow your Twitter audience and increase the
+amount of engagement your tweets receive. Let me know if you want access!"
+
+---

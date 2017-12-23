@@ -1,6 +1,6 @@
 ---
 layout: default
-modal-id: 6
+modal-id: 7
 date: 2014-07-15
 img: tic-tac-toe.png
 alt: image-alt
