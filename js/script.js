@@ -4,8 +4,8 @@ $(function() {
   "O Brother Where Art Thou", "Bronson", "Chopper", "There Will Be Blood"]
   var music = ["The Beatles", "Animal Collective", "The National", "Future Islands",
   "Girls", "Chicano Batman", "Tame Impala"]
-  var skills = ["JavaScript", "HTML/CSS", "Ruby", "Git", "SEO", "Bootstrap", "Wordpress"]
-  var interests = ["React", "Rails", "Node.JS"]
+  var skills1 = ["JavaScript", "React", "Ruby", "Rails"]
+  var skills2 = ["Git", "SEO", "Bootstrap", "Wordpress"]
   var education = ["Bachelor of Arts in English, May 2012", "Master of Science in Human Resource Management, July 2016"]
 
   education.map(function(school){
@@ -13,13 +13,13 @@ $(function() {
 
   })
 
-  skills.map(function(skill){
-    $("#skills").append("<ul>" + "<li>" + skill + "</li> </ul")
+  skills1.map(function(skill1){
+    $("#skills1").append("<ul>" + "<li>" + skill1 + "</li> </ul")
 
   })
 
-  interests.map(function(interest){
-    $("#interests").append("<ul>" + "<li>" + interest + "</li> </ul")
+  skills2.map(function(skill2){
+    $("#skills2").append("<ul>" + "<li>" + skill2 + "</li> </ul")
 
   })
 
