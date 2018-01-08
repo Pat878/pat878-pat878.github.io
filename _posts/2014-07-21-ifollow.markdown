@@ -9,7 +9,8 @@ alt: image-alt
 category: Web Development
 code: ""
 live-link: https://www.ifollow.io
-description: "A Rails app that will grow your Twitter audience and increase the
-amount of engagement your tweets receive. Let me know if you want access!"
+description: "A Rails app designed to grow your Twitter audience and increase the
+amount of engagement your tweets receive. After a user signs up she can select up
+to 5 keywords which the app  will use to favorite related tweets and follow relevant users."
 
 ---
