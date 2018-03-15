@@ -14,7 +14,7 @@
           <div class="modal-body">
             <h2>{{ post.title }}</h2>
             <hr class="star-primary">
-            <a href="{{ post.live-link }}" target="_blank"><img src="img/portfolio/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}"></a>
+            <a href="{{ post.live-link }}" onclick="trackOutboundLink('{{ post.live-link }}'); return false;" target="_blank"><img src="img/portfolio/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}"></a>
             <p>{{ post.description }}</p>
             <ul class="list-inline item-details">
               <!--  <li>Client:
@@ -26,12 +26,12 @@
         </strong>-->
       </li>
       <li>
-        <strong><a href="{{ post.live-link }}"  target="_blank"><i class="fa fa-link fa-2x" aria-hidden="true"></i></a>
+        <strong><a href="{{ post.live-link }}" onclick="trackOutboundLink('{{ post.live-link }}'); return false;" target="_blank"><i class="fa fa-link fa-2x" aria-hidden="true"></i></a>
         </strong>
       </li>
       <li>
         {% if post.title != "Ifollow" %}
-        <strong><a href="{{ post.code }}" target="_blank"><i class="fa fa-github fa-2x" aria-hidden="true"></i>
+        <strong><a href="{{ post.code }}" onclick="trackOutboundLink('{{ post.live-link }}'); return false;" target="_blank"><i class="fa fa-github fa-2x" aria-hidden="true"></i>
         </a>
         {% endif %}
       </strong>
