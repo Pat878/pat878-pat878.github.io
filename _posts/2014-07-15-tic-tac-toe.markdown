@@ -9,6 +9,5 @@ client: Start Bootstrap
 category: Web Development
 code: https://github.com/Pat878/TicTacToe
 live-link: https://pat878.github.io/TicTacToe/
-description: "Tic tac toe, baby! You're pretty much guaranteed to win this one... not the smartest computer opponent... still working on that."
-
+description: "Tic tac toe, baby! You're pretty much guaranteed to win this one... not the smartest computer opponent.
 ---
