@@ -9,6 +9,6 @@ client: Start Bootstrap
 category: Web Development
 code: https://github.com/Pat878/Calculator
 live-link: https://pat878.github.io/Calculator/
-description: "Just a simple calculator."
+description: "A simple calculator."
 
 ---
